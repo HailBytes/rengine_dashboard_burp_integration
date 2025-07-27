@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
 reNgine Dashboard to Local Burp Suite Integration
+Copyright (c) 2025 HailBytes
+Licensed under the MIT License - seeLICENSE file for details
+
 For testers accessing reNgine via web dashboard and running Burp Suite locally
-FIXED VERSION - Handles SSL certificate issues
 """
 
 import requests
